@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="language">English</string>
+    <string name="Weather">Weather</string>
+    <string name="weather">Weather</string>
+    <string name="time">21:32</string>
+    <string name="dayOfWeek">Tuesday</string>
+    <string name="english">English</string>
+    <string name="temperature">18° C</string>
+    <string name="sunny_day">Sunny Day</string>
+    <string name="today">Today</string>
+    <string name="this_week">This week</string>
+    <string name="latest_news">Latest news</string>
+
+
+</resources>
